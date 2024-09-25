@@ -58,7 +58,7 @@ func is_enemy_at_position(position):
 	return false
 
 # Скрипт для перехода в экран боя и выхода из него
-extends Node
+#extends Node
 
 # Здоровье врага
 var enemy_health = 50
